@@ -7,10 +7,10 @@
 
         default_layer {
             bindings = <
-&kp ESCAPE  &kp UP_ARROW  &kp ENTER  &kp F17
-&kp LEFT    &kp DOWN      &kp RIGHT  &kp F18
-&kp F18     &kp F19       &kp F20    &kp L
-&kp F21     &kp F22       &kp F23    &kp S
+&kp F17  &kp ENTER  &kp UP_ARROW  &kp ESCAPE
+&kp F16  &kp RIGHT  &kp DOWN      &kp LEFT
+&kp L    &kp F20    &kp F19       &kp F18
+&kp S    &kp F23    &kp F22       &kp F21
             >;
         };
     };
