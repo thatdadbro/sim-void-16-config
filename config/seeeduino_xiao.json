@@ -1,12 +1,14 @@
 {
-  "keyboard_name": "Seeeduino Xiao Sim Pad",
+  "id": "seeeduino_xiao",
+  "name": "Seeeduino Xiao Sim Pad",
   "layouts": {
-    "LAYOUT_ortho_4x4": {
+    "default_transform": {
+      "name": "default_transform",
       "layout": [
-        {"label": "R0C0", "x": 0, "y": 0}, {"label": "R0C1", "x": 1, "y": 0}, {"label": "R0C2", "x": 2, "y": 0}, {"label": "R0C3", "x": 3, "y": 0},
-        {"label": "R1C0", "x": 0, "y": 1}, {"label": "R1C1", "x": 1, "y": 1}, {"label": "R1C2", "x": 2, "y": 1}, {"label": "R1C3", "x": 3, "y": 1},
-        {"label": "R2C0", "x": 0, "y": 2}, {"label": "R2C1", "x": 1, "y": 2}, {"label": "R2C2", "x": 2, "y": 2}, {"label": "R2C3", "x": 3, "y": 2},
-        {"label": "R3C0", "x": 0, "y": 3}, {"label": "R3C1", "x": 1, "y": 3}, {"label": "R3C2", "x": 2, "y": 3}, {"label": "R3C3", "x": 3, "y": 3}
+        { "row": 0, "col": 0, "x": 0, "y": 0 }, { "row": 0, "col": 1, "x": 1, "y": 0 }, { "row": 0, "col": 2, "x": 2, "y": 0 }, { "row": 0, "col": 3, "x": 3, "y": 0 },
+        { "row": 1, "col": 0, "x": 0, "y": 1 }, { "row": 1, "col": 1, "x": 1, "y": 1 }, { "row": 1, "col": 2, "x": 2, "y": 1 }, { "row": 1, "col": 3, "x": 3, "y": 1 },
+        { "row": 2, "col": 0, "x": 0, "y": 2 }, { "row": 2, "col": 1, "x": 1, "y": 2 }, { "row": 2, "col": 2, "x": 2, "y": 2 }, { "row": 2, "col": 3, "x": 3, "y": 2 },
+        { "row": 3, "col": 0, "x": 0, "y": 3 }, { "row": 3, "col": 1, "x": 1, "y": 3 }, { "row": 3, "col": 2, "x": 2, "y": 3 }, { "row": 3, "col": 3, "x": 3, "y": 3 }
       ]
     }
   }
